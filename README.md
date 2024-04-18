@@ -29,6 +29,8 @@ Para usar este script:
 4. Salve e nomeie o projeto.
 5. Retorne à planilha e configure um gatilho para o script ou execute manualmente conforme necessário.
 
+**Acesso ao Dashboard**: O dashboard pode ser acessado através de [este link](https://docs.google.com/spreadsheets/d/1Iv5r3_E0pw4YoaMNBT5hsyCive26DOFV8OM3kd50-VE/edit#gid=1682663128).
+
 ### Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/copiaecola/blob/master/LICENSE) para mais detalhes.
