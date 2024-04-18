@@ -1,7 +1,7 @@
 ## Google Sheets Data Refresh Script
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/dashboard-apps-script/assets/109884524/157dd116-487e-4b4f-be75-7cd19e368966" />
+    <img src="https://github.com/alexandrefreitass/copiaecola/assets/109884524/1ad8672a-094e-41f4-9eae-fa02f0a6ae57" />
 </div>
 
 Este repositório contém um script do Google Apps Script projetado para atualizar automaticamente os dados em uma planilha do Google Sheets. O script foi criado para facilitar a atualização de dados que são frequentemente alterados e que precisam ser transferidos de uma planilha oculta para uma planilha visível.
